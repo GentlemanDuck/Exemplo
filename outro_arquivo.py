@@ -1,0 +1,1 @@
+print("Arquivo outro_arquivo.py")
