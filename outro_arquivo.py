@@ -1,0 +1,1 @@
+print("ai que n sei oq n sei oq la")
